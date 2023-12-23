@@ -1,3 +1,7 @@
+#leetcode_problems
+#1496_Path_Crossing
+
+
 class Solution:
     def isPathCrossing(self, path: str) -> bool:
         x = 0
