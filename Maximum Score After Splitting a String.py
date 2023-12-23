@@ -1,3 +1,7 @@
+#leetcode_problem
+#Maximum Score After Splitting a String
+
+
 class Solution:
     def maxScore(self, s: str) -> int:
         ones = s.count("1")
