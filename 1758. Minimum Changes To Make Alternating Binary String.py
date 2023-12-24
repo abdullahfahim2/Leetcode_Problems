@@ -1,3 +1,7 @@
+"""Leetcode Problems
+1758. Minimum Changes To Make Alternating Binary String"""
+
+
 class Solution:
     def minOperations(self, s: str) -> int:
         count = 0
