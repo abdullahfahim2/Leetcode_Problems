@@ -1,3 +1,6 @@
+#Daily LeetCode Challenge
+#3rd January 2024
+
 class Solution:
     def numberOfBeams(self, bank: int) -> int:
         ans = 0
