@@ -1,3 +1,6 @@
+#Leetcode Daily Challenge
+#Leetcode | 300
+
 class Solution:
     def lengthOfLIS(self, nums:list[int]) -> int:
         tails = [0] * len(nums)
