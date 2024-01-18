@@ -1,4 +1,4 @@
-This is a Special Reposetory!<br>
+This is a Special Repository!<br>
 Here Are Some Real World Problem Solved With Code From LeetCode!
 
 <br>
